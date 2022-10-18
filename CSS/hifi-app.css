@@ -6,7 +6,7 @@ body{
 }
 #body_login{
 color: white;
-background-image: url(/img/fondo_movil.jpg);
+background-image: url(../img/fondo_movil.jpg);
 background-position: center center;
 background-repeat: no-repeat;
 background-attachment: fixed;
